@@ -12,6 +12,10 @@ http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon
 Katie Siegel's account of Organizing HackMIT     
 https://medium.com/@kt_seagull/what-is-it-like-to-organize-hackmit-96467ee9a9b8
 
+Lob Hackathon Advice
+
+https://www.lob.com/blog/hackathon-playbook-part2
+
 ####Branding 
 
 Bitcamp     
@@ -54,6 +58,14 @@ https://www.youtube.com/watch?v=wSOxWVdJhHg
 
 Recruiting judges    
 https://www.youtube.com/watch?v=NGg_ItIKL68 
+
+
+#### Advice for Companies Sponsering Hackathon
+
+Lob Hackathon Playbook
+
+https://www.lob.com/blog/hackathon-playbook-part1
+
 
 
 ####List of People to Talk To !
